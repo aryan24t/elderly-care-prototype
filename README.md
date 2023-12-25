@@ -1,4 +1,4 @@
-Medication Reminder
+Medication Reminder :-
 This is a simple Tkinter-based GUI application for managing medication reminders.
 
 Features
