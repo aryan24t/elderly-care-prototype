@@ -33,4 +33,4 @@ Push to the branch (git push origin feature/your-feature).
 Create a new pull request.
 
 Contact
-For any inquiries or suggestions, please contact [athengdi24@gmail.com].
+For any inquiries or suggestions, please contact [aryanthengdi.work@gmail.com].
